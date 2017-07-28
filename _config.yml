@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # # # # # # # # # # # #
 #   K i k o - p l u s   #
 # # # # # # # # # # # # #
@@ -91,3 +92,8 @@ gems:
   - jekyll-admin
 
 exclude:            [vendor]
+=======
+theme: jekyll-theme-minimal
+title: "QuadSpinner Projects"
+description: "The hub for all QuadSpinner open source projects"
+>>>>>>> origin/master

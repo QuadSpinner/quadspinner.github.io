@@ -41,7 +41,7 @@ baseurl:            "/" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/India
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -55,8 +55,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "Projects"
+    url:            "/projects"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"

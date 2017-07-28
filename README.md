@@ -1,1 +1,1 @@
-# quadspinner
+Go to [https://quadspinner.github.io](https://quadspinner.github.io).

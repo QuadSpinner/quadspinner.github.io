@@ -1,3 +1,41 @@
+## Welcome to our Open Source projects!
+
+QuadSpinner is dedicated to involving the community in all our projects, and our GitHub repositories contain several useful projects where you can contribute to the future of Gaea.
+
+
+# Projects
+
+### Gaea Documentation
+[See on GitHub](https://github.com/QuadSpinner/Gaea-Docs/)
+
+### Gaea Example Scenes
+[See on GitHub](https://github.com/QuadSpinner/Gaea-Docs/)
+
+### Gaea Script Samples
+[See on GitHub](https://github.com/QuadSpinner/Gaea-Scripts/)
+
+## How to contribute
+
+Lorem ipsum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QuadSpinner/quadspinner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

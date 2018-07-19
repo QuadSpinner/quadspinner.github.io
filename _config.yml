@@ -1,1 +1,6 @@
+title: QuadSpinner
+logo: /assets/img/logo.png
+description: The central entrypoint for all QuadSpinner Open Source Projects.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal

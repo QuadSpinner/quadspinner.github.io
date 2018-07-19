@@ -8,13 +8,13 @@ QuadSpinner is dedicated to involving the community in all our projects, and our
 ## Gaea
 All open source projects related to the [Gaea terrain creation software](http://quadspinner.com/gaea/).
 
-### [Gaea Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
+### [Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
 The primary documentation for Gaea.
 
-### [Gaea Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts/)
+### [Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts/)
 All quickstart scenes included with Gaea.
 
-### [Gaea Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)
+### [Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)
 Example scripts to help learn the Gaea automation tools.
 
 

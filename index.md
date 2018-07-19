@@ -5,12 +5,20 @@ QuadSpinner is dedicated to involving the community in all our projects, and our
 
 # Projects
 
-### [Gaea Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
+## Gaea
+All open source projects related to the [Gaea terrain creation software](http://quadspinner.com/gaea/).
 
-### [Gaea Example Scenes](https://github.com/QuadSpinner/Gaea-Docs/)
+### [Gaea Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
+The primary documentation for Gaea.
+
+### [Gaea Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts/)
+All quickstart scenes included with Gaea.
 
 ### [Gaea Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)
+Example scripts to help learn the Gaea automation tools.
 
-## How to contribute
 
-Lorem ipsum
+# How to contribute
+- If you have comments, suggestions, or found a bug, open an issue in the related repo.
+- If you want to make a larger contribution, such as a change or addition, fork the repo in question and create a pull request.
+- Please check individual repositories for additional notes on how to contribute.

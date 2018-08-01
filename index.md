@@ -11,7 +11,7 @@ All open source projects related to the [Gaea terrain creation software](http://
 ### [Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
 The primary documentation for Gaea.
 
-### [Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts/)
+### [Quickstarts](https://quadspinner.github.io/Gaea-Quickstarts/)
 All quickstart scenes included with Gaea.
 
 ### [Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)

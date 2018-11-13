@@ -17,6 +17,14 @@ All quickstart scenes included with Gaea.
 ### [Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)
 Example scripts to help learn the Gaea automation tools.
 
+## Vue Legacy
+
+### [Open Source Assets](https://github.com/QuadSpinner/VueLegacy)
+As a "thank you" to all the thousands of users who supported QuadSpinner in its infancy, we have open sourced our material, MetaNode, and function library under the Creative Commons Attribution 4.0 International license. You can use it for commercial use, modify and distribute the files as long as you link back to or attribute this repository.
+
+### [Realism in Vue - Open Sourced for the community](https://github.com/QuadSpinner/RealismInVue)
+This version of the book has been open sourced to provide educational purposes by the author. This book was published nearly a decade ago, so please keep in mind that the software Vue has changed in some ways, and certain obsolete methodology may not apply. However, the core concepts still hold true.
+
 
 # How to contribute
 - If you have comments, suggestions, or found a bug, open an issue in the related repo.
